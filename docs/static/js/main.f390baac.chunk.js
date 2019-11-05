@@ -1,0 +1,2 @@
+(this["webpackJsonpprueba-env"]=this["webpackJsonpprueba-env"]||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var r=t(0),a=t.n(r),o=t(2);var c=function(){return console.log("production"),a.a.createElement("div",{className:"App"},a.a.createElement("h1",null," Prueba ","production"))};t.n(o).a.render(a.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.f390baac.chunk.js.map
