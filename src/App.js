@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-        <h1>Prueba</h1>
+        <h1> Prueba {process.env.NODE_ENV}</h1>
     </div>
   );
 }
